@@ -20,6 +20,13 @@ $aMenuLinks = Array(
 		Array(), 
 		Array(), 
 		"" 
+	),
+	Array(
+		"Сотрудники компании", 
+		"/o-kompanii/user/", 
+		Array(), 
+		Array(), 
+		"" 
 	)
 );
 ?>
