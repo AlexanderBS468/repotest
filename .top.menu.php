@@ -69,6 +69,13 @@ $aMenuLinks = Array(
 		Array(), 
 		Array(), 
 		"" 
+	),
+	Array(
+		"Заказать звонок", 
+		"/callback/", 
+		Array(), 
+		Array(), 
+		"" 
 	)
 );
 ?>
