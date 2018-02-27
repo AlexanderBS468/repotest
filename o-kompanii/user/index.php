@@ -1,5 +1,5 @@
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Сотрудники компании");?><h1>Сотрудники</h1>
+$APPLICATION->SetTitle("Сотрудники компании");?>
  <?$APPLICATION->IncludeComponent(
 	"bitrix:news", 
 	"staff", 
