@@ -1,5 +1,5 @@
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Заказать звонок");?><h1>Заказать звонок</h1>
+$APPLICATION->SetTitle("Заказать звонок");?>
  <?$APPLICATION->IncludeComponent("bitrix:form", "template1", Array(
 	"AJAX_MODE" => "N",	// Включить режим AJAX
 		"AJAX_OPTION_ADDITIONAL" => "",	// Дополнительный идентификатор
