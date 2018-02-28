@@ -7,6 +7,13 @@ $aMenuLinks = Array(
 		Array(), 
 		"" 
 	),
+    	Array(
+		"Заказать звонок", 
+		"/callback/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
 	Array(
 		"Спецпредложения", 
 		"/specpredlozheniya/", 
